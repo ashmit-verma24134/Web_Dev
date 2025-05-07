@@ -4,26 +4,6 @@ This is a beginner-level HTML project that creates a fun and colorful birthday i
 
 Concepts Used:
 HTML Document Structure
+This project is a beginner-level HTML webpage that serves as a birthday invitation. It uses basic HTML elements to structure the content in a clear and engaging way. The `<h1>`, `<h2>`, and `<h3>` heading tags are used to display the main title, date, and subheadings. An image of a birthday cake is embedded using the `<img>` tag with a `src` attribute linking to an external URL. The invitation lists what guests should bring using an unordered list (`<ul>`) with individual list items (`<li>`), making the content organized and easy to read. A hyperlink is added using the `<a>` tag, which leads to a Google Maps location for the party. The project demonstrates an understanding of web structure, content hierarchy, media embedding, list creation, and link navigation. It is a fun and practical introduction to building simple webpages using pure HTML.
 
-Organized with proper use of headings, paragraphs, lists, and anchor tags.
-
-Heading Elements (<h1>, <h2>, <h3>)
-
-Used for defining the title, date, and subheadings to organize content hierarchically.
-
-Image Element (<img>)
-
-Displays an external image of a birthday cake using the src attribute to link to an image URL.
-
-Paragraph Element (<p>)
-
-Descriptive text added to explain what to bring and event details.
-
-List Element (<ul> and <li>)
-
-An unordered list to itemize what guests should bring to the party, enhancing readability.
-
-Anchor Element (<a>)
-
-A hyperlink to the event location on Google Maps, demonstrating navigation to external content.
 
