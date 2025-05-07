@@ -1,7 +1,8 @@
-# Web Development Bootcamp Projects 🚀
+# Web Development Projects 🚀
 
-This repository contains my learning journey through the [Angela Yu Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/). It includes mini projects, challenges, and practice code as I explore:
+This repository showcases my hands-on journey in learning full-stack web development. It includes mini projects, challenges, and experiments I've built while exploring the core technologies of the modern web.
 
+## 🔧 Technologies Covered
 - ✅ HTML5
 - ✅ CSS3
 - ✅ Flexbox & Grid
@@ -18,20 +19,21 @@ This repository contains my learning journey through the [Angela Yu Web Developm
 - ✅ Deployment
 
 ## 📁 Folder Structure
-Each folder is a standalone project or section-based practice:
+Each folder is a standalone project or topic-based practice:
 - `HTML-CSS-Basics/` – Simple pages and layouts
 - `JS-DOM-Projects/` – JavaScript practice & interactive features
-- `Node-Express-Apps/` – Backend & full-stack mini projects
+- `Node-Express-Apps/` – Backend & full-stack mini apps
 
 ## 📅 Timeline
-🗓️ Bootcamp started: May 2025  
-📈 Consistently updating as I progress
+🗓️ Started: May 2025  
+📈 Continuously adding and refining projects as I learn
 
-## 📌 Goals
-- Build real projects to solidify concepts  
-- Upload projects to GitHub Pages / Replit / Render  
-- Track learning and growth publicly
+## 🎯 Goals
+- Build meaningful mini projects to reinforce learning  
+- Host projects using GitHub Pages / Render / Replit  
+- Share progress openly and improve through feedback
 
 ---
 
-📬 Feel free to star or fork! Feedback and suggestions are welcome.
+📬 Feel free to explore, star, or fork! Feedback and contributions are always welcome.
+
